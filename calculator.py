@@ -14,3 +14,6 @@ def div(a,b):
 def add(a,b):
     print("add called")
     return a + b
+def add(a,b):
+    print("calculating...")
+    return a+b
