@@ -11,3 +11,6 @@ def sub(a,b):
 def div(a,b):
     return a / b
 >>>>>>> feature/div
+def add(a,b):
+    print("add called")
+    return a + b
