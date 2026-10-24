@@ -1,6 +1,7 @@
 def add(a,b):
-    return a+b
-print(add(10,5))
+    return a+b+0
+
+
 
 def multiply(a,b):
     return a*b
